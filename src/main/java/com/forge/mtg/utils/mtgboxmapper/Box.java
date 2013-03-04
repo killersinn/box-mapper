@@ -1,7 +1,7 @@
 package com.forge.mtg.utils.mtgboxmapper;
 
 /**
- * MTG Box Mapping API ©2013 Arman SEPETCI
+ * MTG Box Mapping API
  *
  * @author asepetci
  */

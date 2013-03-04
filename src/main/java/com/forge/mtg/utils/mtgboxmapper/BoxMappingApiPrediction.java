@@ -3,7 +3,7 @@ package com.forge.mtg.utils.mtgboxmapper;
 import java.util.ArrayList;
 
 /**
- * MTG Box Mapping API ©2013 Arman SEPETCI
+ * MTG Box Mapping API
  *
  * @author asepetci
  */
