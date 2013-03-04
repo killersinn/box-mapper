@@ -1,0 +1,249 @@
+Act of Treason::0.14
+Adaptive Snapjaw::0.14
+Aerial Maneuver::0.14
+Aetherize::0.49
+Agoraphobia::0.24
+Alms Beast::0.49
+Alpha Authority::0.24
+Angelic Edict::0.14
+Angelic Skirmisher::1.99
+Armored Transport::0.14
+Arrows of Justice::0.24
+Assault Griffin::0.14
+Assemble the Legion::0.99
+Aurelia's Fury::19.99
+Aurelia, the Warleader::24.99
+Balustrade Spy::0.14
+Bane Alley Broker::0.24
+Basilica Guards::0.14
+Basilica Screecher::0.14
+Beckon Apparition::0.14
+Biomass Mutation::0.99
+Bioshift::0.14
+Biovisionary::0.99
+Blind Obedience::7.99
+Bomber Corps::0.14
+Borborygmos Enraged::3.99
+Boros Charm::3.99
+Boros Elite::0.24
+Boros Guildgate::0.49
+Boros Keyrune::0.49
+Boros Reckoner::32.99
+Breeding Pool::14.99
+Burning-Tree Emissary::0.99
+Burst of Strength::0.14
+Call of the Nightwing::0.49
+Cartel Aristocrat::0.24
+Cinder Elemental::0.24
+Clan Defiance::2.29
+Clinging Anemones::0.14
+Cloudfin Raptor::0.14
+Coerced Confession::0.24
+Consuming Aberration::2.99
+Contaminated Ground::0.14
+Corpse Blockade::0.14
+Court Street Denizen::0.14
+Crackling Perimeter::0.24
+Crocanura::0.14
+Crowned Ceratok::0.24
+Crypt Ghast::3.99
+Daring Skyjek::0.14
+Death's Approach::0.14
+Deathcult Rogue::0.14
+Deathpact Angel::4.49
+Debtor's Pulpit::0.24
+Devour Flesh::0.24
+Diluvian Primordial::0.79
+Dimir Charm::0.49
+Dimir Guildgate::0.49
+Dimir Keyrune::0.49
+Dinrova Horror::0.24
+Disciple of the Old Ways::0.14
+Domri Rade::29.99
+Drakewing Krasis::0.14
+Duskmantle Guildmage::0.49
+Duskmantle Seer::11.99
+Dutiful Thrull::0.14
+Dying Wish::0.24
+Elusive Krasis::0.24
+Ember Beast::0.14
+Enter the Infinite::3.99
+Executioner's Swing::0.14
+Experiment One::0.24
+Fathom Mage::1.29
+Firefist Striker::0.24
+Firemane Avenger::3.29
+Five-Alarm Fire::0.49
+Forced Adaptation::0.14
+Fortress Cyclops::0.24
+Foundry Champion::0.49
+Foundry Street Denizen::0.14
+Frenzied Tilling::0.24
+Frilled Oculus::0.14
+Frontline Medic::5.99
+Furious Resistance::0.14
+Gateway Shade::0.24
+Ghor-Clan Rampager::0.49
+Giant Adephage::2.99
+Gideon, Champion of Justice::18.99
+Gift of Orzhova::0.49
+Glaring Spotlight::2.29
+Godless Shrine::14.99
+Greenside Watcher::0.14
+Gridlock::0.24
+Grisly Spectacle::0.14
+Ground Assault::0.24
+Gruul Charm::0.49
+Gruul Guildgate::0.49
+Gruul Keyrune::0.49
+Gruul Ragebeast::0.49
+Guardian of the Gateless::0.24
+Guildscorn Ward::0.14
+Gutter Skulk::0.14
+Gyre Sage::6.49
+Hands of Binding::0.14
+Hellkite Tyrant::3.49
+Hellraiser Goblin::0.24
+High Priest of Penance::3.99
+Hindervines::0.24
+Hold the Gates::0.24
+Holy Mantle::0.24
+Homing Lightning::0.49
+Horror of the Dim::0.14
+Hydroform::0.14
+Illness in the Ranks::0.49
+Illusionist's Bracers::1.99
+Immortal Servitude::1.49
+Incursion Specialist::0.24
+Ivy Lane Denizen::0.14
+Keymaster Rogue::0.14
+Killing Glare::0.24
+Kingpin's Pet::0.14
+Knight of Obligation::0.24
+Knight Watch::0.14
+Last Thoughts::0.24
+Lazav, Dimir Mastermind::9.99
+Legion Loyalist::5.99
+Leyline Phantom::0.14
+Lord of the Void::5.29
+Luminate Primordial::0.49
+Madcap Skills::0.14
+Mark for Death::0.24
+Martial Glory::0.14
+Massive Raid::0.14
+Master Biomancer::15.99
+Mental Vapors::0.24
+Merciless Eviction::1.99
+Merfolk of the Depths::0.24
+Metropolis Sprite::0.14
+Midnight Recovery::0.14
+Millennial Gargoyle::0.14
+Miming Slime::0.24
+Mind Grind::3.99
+Mindeye Drake::0.24
+Molten Primordial::0.49
+Mortus Strider::0.14
+Mugging::0.14
+Murder Investigation::0.24
+Mystic Genesis::0.99
+Naturalize::0.14
+Nav Squad Commandos::0.14
+Nightveil Specter::1.99
+Nimbus Swimmer::0.24
+Obzedat, Ghost Council::29.99
+Ogre Slumlord::0.79
+One Thousand Lashes::0.49
+Ooze Flux::0.49
+Ordruun Veteran::0.24
+Orzhov Charm::0.49
+Orzhov Guildgate::0.49
+Orzhov Keyrune::0.49
+Paranoid Delusions::0.24
+Pit Fight::0.14
+Predator's Rapport::0.14
+Primal Visitation::0.14
+Prime Speaker Zegana::13.99
+Prophetic Prism::0.24
+Psychic Strike::0.24
+Purge the Profane::0.14
+Rapid Hybridization::0.49
+Razortip Whip::0.14
+Realmwright::1.49
+Righteous Charge::0.24
+Riot Gear::0.14
+Ripscale Predator::0.24
+Rubblebelt Raiders::1.99
+Rubblehulk::0.99
+Ruination Wurm::0.14
+Rust Scarab::0.24
+Sacred Foundry::22.99
+Sage's Row Denizen::0.14
+Sapphire Drake::0.24
+Scab-Clan Charger::0.14
+Scatter Arc::0.14
+Scorchwalker::0.14
+Sepulchral Primordial::0.99
+Serene Remembrance::0.24
+Shadow Alley Denizen::0.14
+Shadow Slice::0.24
+Shambleshark::0.14
+Shattering Blow::0.14
+Shielded Passage::0.14
+Signal the Clans::1.99
+Simic Charm::0.49
+Simic Fluxmage::0.24
+Simic Guildgate::0.49
+Simic Keyrune::0.49
+Simic Manipulator::0.99
+Skarrg Goliath::0.49
+Skarrg Guildmage::0.49
+Skinbrand Goblin::0.24
+Skullcrack::1.99
+Skyblinder Staff::0.14
+Skygames::0.14
+Skyknight Legionnaire::0.24
+Slate Street Ruffian::0.14
+Slaughterhorn::0.14
+Smite::0.14
+Smog Elemental::0.24
+Soul Ransom::1.49
+Spark Trooper::2.79
+Spell Rupture::0.14
+Spire Tracer::0.14
+Stolen Identity::0.99
+Stomping Ground::17.99
+Structural Collapse::0.14
+Sunhome Guildmage::0.49
+Sylvan Primordial::2.29
+Syndic of Tithes::0.14
+Syndicate Enforcer::0.14
+Thespian's Stage::3.99
+Thrull Parasite::0.24
+Tin Street Market::0.14
+Totally Lost::0.14
+Tower Defense::0.24
+Towering Thunderfist::0.14
+Treasury Thrull::0.99
+Truefire Paladin::0.49
+Undercity Informer::0.99
+Undercity Plague::0.99
+Unexpected Results::1.49
+Urban Evolution::0.99
+Urbis Protector::0.24
+Verdant Haven::0.24
+Viashino Shanktail::0.24
+Vizkopa Confessor::0.24
+Vizkopa Guildmage::0.49
+Voidwalk::0.24
+Warmind Infantry::0.14
+Wasteland Viper::0.49
+Watery Grave::14.99
+Way of the Thief::0.14
+Whispering Madness::0.99
+Wight of Precinct Six::0.49
+Wildwood Rebirth::0.14
+Wojek Halberdiers::0.14
+Wrecking Ogre::0.49
+Zameck Guildmage::0.24
+Zarichi Tiger::0.14
+Zhur-Taa Swine::0.14

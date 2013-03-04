@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app version="3.0"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         metadata-complete="false">
+
+    <display-name>MtgBoxMapper-web</display-name>
+    <servlet>
+        <servlet-name>InitApiSrv</servlet-name>
+        <servlet-class>com.forge.mtg.utils.mtgboxmapperweb.ui.servlets.InitApiSrv</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>guessSrv</servlet-name>
+        <servlet-class>com.forge.mtg.utils.mtgboxmapperweb.ui.servlets.guessSrv</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>InitApiSrv</servlet-name>
+        <url-pattern>/openGuessPanel</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>guessSrv</servlet-name>
+        <url-pattern>/guess</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+         
+</web-app>
